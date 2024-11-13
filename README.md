@@ -1,12 +1,3 @@
-  __     _  _      ___          ____      ____      ____    _  _   
-  FJ    FJ  L]    F __".       / _  `.   F _  ]    / _  `. FJ  L]  
- J  L  J |  | L  J (___|      J_/-7 .'  J |/ | L  J_/-7 .'J |__| L 
- |  |  | |  | |  J\___ \      `-:'.'.'  | | /| |  `-:'.'.'|____  | 
- F  J  F L__J J .--___) \     .' ;_J__  F  /_J J  .' ;_J__L____J J 
-J____LJ\______/FJ\______J    J________LJ\______/FJ________L    J__L
-|____| J______F  J______F    |________| J______F |________|    J__|
-                                        
-
 # Simple Alarm Clock
 
 This is a simple alarm clock application created as a project for CS305 at the International University of Sarajevo. The aim of this project is to demonstrate proficiency in C#, Python, and JavaScript by implementing the same functionality in each of these programming languages. Additionally, the project features a 7-segment display imitation for the alarm clock interface.
