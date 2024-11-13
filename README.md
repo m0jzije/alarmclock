@@ -19,11 +19,44 @@ All three versions of the alarm clock application include a 7-segment display im
 
 ## Installation and Usage
 
-Please refer to the individual language-specific README files for instructions on how to install and use the alarm clock application:
+### C# Version
 
-- [C# Version](c-sharp/README.md)
-- [Python Version](python/README.md)
-- [JavaScript Version](javascript/README.md)
+Prerequisites:
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [.NET SDK](https://dotnet.microsoft.com/download)
+- C# extension for Visual Studio Code
+
+Instructions:
+1. Clone the repository: `git clone https://github.com/your-username/alarm-clock.git`
+2. Navigate to the `c-sharp` directory: `cd alarm-clock/c-sharp`
+3. Open the project in Visual Studio Code
+4. Press `Ctrl + F5` to run the application
+
+### Python Version
+
+Prerequisites:
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Python](https://www.python.org/downloads/)
+- Python extension for Visual Studio Code
+
+Instructions:
+1. Clone the repository: `git clone https://github.com/your-username/alarm-clock.git`
+2. Navigate to the `python` directory: `cd alarm-clock/python`
+3. Open the project in Visual Studio Code
+4. Press `Ctrl + F5` to run the application
+
+### JavaScript Version
+
+Prerequisites:
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Node.js](https://nodejs.org/en/download/)
+- JavaScript extension for Visual Studio Code
+
+Instructions:
+1. Clone the repository: `git clone https://github.com/your-username/alarm-clock.git`
+2. Navigate to the `javascript` directory: `cd alarm-clock/javascript`
+3. Open the project in Visual Studio Code
+4. Press `Ctrl + F5` to run the application
 
 ## Contributing
 
