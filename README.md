@@ -78,7 +78,6 @@ Users can snooze the alarm or turn it off.
 
 Example Output
 Time Display
-Copy
     ╔══════════════════════════════╗
     ║                              ║
     ║          14:25:03            ║
