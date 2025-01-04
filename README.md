@@ -19,7 +19,7 @@ All three versions of the alarm clock application include a display imitation to
 
 # Alarm Clock - C# Version
 
-This is the **C# version** of the Alarm Clock project, created as part of CS305 at the International University of Sarajevo. The project demonstrates proficiency in C# by implementing a simple alarm clock with a 7-segment display imitation.
+This is the **C# version** of the Alarm Clock project, created as part of CS305 at the International University of Sarajevo. The project demonstrates proficiency in C# by implementing a simple alarm clock with a display imitation.
 
 ---
 ## C# Version
