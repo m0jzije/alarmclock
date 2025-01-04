@@ -1,7 +1,3 @@
-Here’s a `README.md` specifically for the **JavaScript version** of your alarm clock project. You can place this file in the `javascript` branch of your repository.
-
----
-
 ### **README.md for JavaScript Version**
 
 ```markdown
