@@ -1,0 +1,14 @@
+D:\Projekti\AlarmClock\bin\Debug\net8.0\AlarmClock.exe
+D:\Projekti\AlarmClock\bin\Debug\net8.0\AlarmClock.deps.json
+D:\Projekti\AlarmClock\bin\Debug\net8.0\AlarmClock.runtimeconfig.json
+D:\Projekti\AlarmClock\bin\Debug\net8.0\AlarmClock.dll
+D:\Projekti\AlarmClock\bin\Debug\net8.0\AlarmClock.pdb
+D:\Projekti\AlarmClock\obj\Debug\net8.0\AlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekti\AlarmClock\obj\Debug\net8.0\AlarmClock.AssemblyInfoInputs.cache
+D:\Projekti\AlarmClock\obj\Debug\net8.0\AlarmClock.AssemblyInfo.cs
+D:\Projekti\AlarmClock\obj\Debug\net8.0\AlarmClock.csproj.CoreCompileInputs.cache
+D:\Projekti\AlarmClock\obj\Debug\net8.0\AlarmClock.dll
+D:\Projekti\AlarmClock\obj\Debug\net8.0\refint\AlarmClock.dll
+D:\Projekti\AlarmClock\obj\Debug\net8.0\AlarmClock.pdb
+D:\Projekti\AlarmClock\obj\Debug\net8.0\AlarmClock.genruntimeconfig.cache
+D:\Projekti\AlarmClock\obj\Debug\net8.0\ref\AlarmClock.dll
