@@ -78,13 +78,14 @@ Users can snooze the alarm or turn it off.
 
 Example Output
 Time Display
+
     ╔══════════════════════════════╗
     ║                              ║
     ║          14:25:03            ║
     ║                              ║
     ╚══════════════════════════════╝
+   
 Alarm Notification
-Copy
 ALARM! ALARM! ALARM! ⏰
 Press 'S' to snooze or 'O' to turn off the alarm.
 Contributing
