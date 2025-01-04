@@ -17,67 +17,98 @@ The alarm clock application allows the user to set a desired alarm time and prov
 
 All three versions of the alarm clock application include a display imitation to mimic the look and feel of a traditional alarm clock display.
 
-## Installation and Usage
+# Alarm Clock - C# Version
 
-### C# Version
+This is the **C# version** of the Alarm Clock project, created as part of CS305 at the International University of Sarajevo. The project demonstrates proficiency in C# by implementing a simple alarm clock with a 7-segment display imitation.
 
-The C# version of the alarm clock is a **console-based application** built using the .NET framework. It provides a simple and intuitive interface for setting an alarm, displaying the current time, and handling snooze or turn-off functionality.
+---
+## C# Version
+## Features
 
-### Key Features of the C# Version:
 - **Set Alarm**: Users can input a future time in `HH:mm` format to set an alarm.
 - **Real-Time Clock Display**: The current time is displayed in a **7-segment display imitation** using ASCII art, updating every second.
 - **Alarm Notification**: When the alarm time is reached, the application plays a **beep sound** and displays a notification.
 - **Snooze Functionality**: Users can snooze the alarm for a predefined duration (default: 1 minute).
 - **Turn Off Alarm**: Users can turn off the alarm completely.
-- **Dynamic Time Display**: The time display is dynamically centered within an ASCII art box, ensuring a clean and visually appealing interface.
 
-Prerequisites:
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [.NET SDK](https://dotnet.microsoft.com/download)
-- C# extension for Visual Studio Code
+---
 
-Instructions:
-1. Clone the repository: `git clone https://github.com/your-username/alarm-clock.git`
-2. Navigate to the `c-sharp` directory: `cd alarm-clock/c-sharp`
-3. Open the project in Visual Studio Code
-4. Press `Ctrl + F5` to run the application
+## Installation and Usage
 
-### Python Version
+### Prerequisites
+- [.NET SDK](https://dotnet.microsoft.com/download) (v6 or higher)
+- [Visual Studio Code](https://code.visualstudio.com/) (optional)
 
-Prerequisites:
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Python](https://www.python.org/downloads/)
-- Python extension for Visual Studio Code
+### Steps to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/alarmclock.git
+Navigate to the csharp branch:
 
-Instructions:
-1. Clone the repository: `git clone https://github.com/your-username/alarm-clock.git`
-2. Navigate to the `python` directory: `cd alarm-clock/python`
-3. Open the project in Visual Studio Code
-4. Press `Ctrl + F5` to run the application
+bash
+Copy
+git checkout csharp
+Navigate to the project directory:
 
-### JavaScript Version
+bash
+Copy
+cd alarmclock/csharp
+Run the project:
 
-Prerequisites:
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Node.js](https://nodejs.org/en/download/)
-- JavaScript extension for Visual Studio Code
+bash
+Copy
+dotnet run
+Project Structure
+Copy
+alarmclock/
+├── Program.cs            # Main C# file
+├── AlarmClock.csproj     # Project configuration file
+├── README.md             # This file
+└── .gitignore            # Files and directories to ignore in Git
+How It Works
+The program starts by displaying the current time in a 7-segment display imitation.
 
-Instructions:
-1. Clone the repository: `git clone https://github.com/your-username/alarm-clock.git`
-2. Navigate to the `javascript` directory: `cd alarm-clock/javascript`
-3. Open the project in Visual Studio Code
-4. Press `Ctrl + F5` to run the application
+Users can set an alarm by entering a time in HH:mm format.
 
-## Contributing
+When the alarm time is reached:
 
+The application plays a beep sound.
+
+Users can snooze the alarm or turn it off.
+
+Example Output
+Time Display
+Copy
+    ╔══════════════════════════════╗
+    ║                              ║
+    ║          14:25:03            ║
+    ║                              ║
+    ╚══════════════════════════════╝
+Alarm Notification
+Copy
+ALARM! ALARM! ALARM! ⏰
+Press 'S' to snooze or 'O' to turn off the alarm.
+Contributing
 If you would like to contribute to this project, please follow the standard Git workflow:
 
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin feature/my-new-feature`
-5. Submit a pull request
+Fork the repository.
 
-## License
+Create a new branch: git checkout -b feature/my-new-feature.
 
-This project is licensed under the [MIT License](LICENSE).
+Commit your changes: git commit -am 'Add some feature'.
+
+Push to the branch: git push origin feature/my-new-feature.
+
+Submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
+Team
+This project was completed by:
+
+Munever Hasanovic
+
+Harun Subasic
+
+Amra Hozic
