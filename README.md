@@ -1,10 +1,10 @@
 # Simple Alarm Clock
 
 This is a simple alarm clock application created as a project for CS305 at the International University of Sarajevo. The aim of this project is to demonstrate proficiency in C#, Python, and JavaScript by implementing the same functionality in each of these programming languages. Additionally, the project features a display imitation for the alarm clock interface.
-To find each version of the project, navigate to it's branch in the repo.
-   -main for the C# version
-   -javascript for the JS version
-   -python for the Python version
+To find each version of the project, navigate to it's branch in the repo:
+1. main for the C# version
+2. javascript for the JS version
+3. python for the Python version
 
 The project was completed by a team of three students:
 - Munever Hasanovic
