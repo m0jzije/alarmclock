@@ -43,30 +43,28 @@ This is the **C# version** of the Alarm Clock project, created as part of CS305 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/alarmclock.git
-Navigate to the csharp branch:
+2. Navigate to the csharp branch:
+      ```bash
 
-bash
-Copy
-git checkout csharp
-Navigate to the project directory:
+   git checkout csharp
+3. Navigate to the project directory:
+   ```bash
 
-bash
-Copy
-cd alarmclock/csharp
-Run the project:
+      cd alarmclock/csharp
+4. Run the project:
+   ```bash
 
-bash
-Copy
-dotnet run
+      dotnet run
 Project Structure
-Copy
-alarmclock/
-├── Program.cs            # Main C# file
-├── AlarmClock.csproj     # Project configuration file
-├── README.md             # This file
-└── .gitignore            # Files and directories to ignore in Git
+      ```bash
+
+      alarmclock/
+      ├── Program.cs            # Main C# file
+      ├── AlarmClock.csproj     # Project configuration file
+      ├── README.md             # This file
+      └── .gitignore            # Files and directories to ignore in Git
 How It Works
-The program starts by displaying the current time in a 7-segment display imitation.
+The program starts by displaying the current time in a simple display imitation.
 
 Users can set an alarm by entering a time in HH:mm format.
 
@@ -92,14 +90,16 @@ Contributing
 If you would like to contribute to this project, please follow the standard Git workflow:
 
 Fork the repository.
+      ```bash
 
-Create a new branch: git checkout -b feature/my-new-feature.
 
-Commit your changes: git commit -am 'Add some feature'.
+      Create a new branch: git checkout -b feature/my-new-feature.
 
-Push to the branch: git push origin feature/my-new-feature.
+      Commit your changes: git commit -am 'Add some feature'.
 
-Submit a pull request.
+      Push to the branch: git push origin feature/my-new-feature.
+
+      Submit a pull request.
 
 License
 This project is licensed under the MIT License.
