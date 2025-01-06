@@ -22,8 +22,8 @@ This is the **JavaScript version** of the Alarm Clock project, created as part o
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
-
-### Steps to Run the Project
+```
+###Steps to Run the Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/alarmclock.git
